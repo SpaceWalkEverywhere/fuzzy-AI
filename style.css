@@ -1,0 +1,18 @@
+.upp{
+    margin-top: 0px;    
+}
+h2{
+    color: #fff;
+}
+h3{
+    width: 500px;
+    border-radius: 10px;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    width: 960px;
+    height: 540px;
+}
